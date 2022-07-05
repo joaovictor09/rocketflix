@@ -4,7 +4,7 @@
 
 Criar um sistema que oferece indicações de filmes para quem está sem ideia do que assistir
 
-## **Técnologias**
+## **Tecnologias**
 
 - [React](https://pt-br.reactjs.org)
 - [Axios](https://axios-http.com/ptbr/)
